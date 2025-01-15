@@ -8,10 +8,10 @@ promoted: true
 weight: 1
 ---
 
-Ken is a student at Anglo-Chinese School (Independent) with a passion for STEM and innovation. 
+Ken holds a deep passion for innovation and entrepreneurship, and looks to use his skills in the area of programming, computer assisted design, and robotics to build a better tomorrow. 
 
-Currently, he is heavily involved in the Hydrogen Grand Prix, working on creating a hydrogen-powered car with a focus on sustainable energy solutions.
+He has won multiple international Vex Robotics Championships together with his club 8059 Blank, at which he holds the position of Vice-Chairperson. Currently, he is heavily involved in the Hydrogen Grand Prix, working on creating a hydrogen-powered car with a focus on sustainable energy solutions.
 
-He enjoy tackling complex problems, building things from the ground up, and working with others to bring impactful ideas to life. 
+He enjoy tackling complex problems, building things from the ground up, and working with others to bring impactful ideas to life. He is currently working on an escrow payment startup, RELY, that will protect customers and businesses from fraudulent deals, together with co-founders from India and Kazakhstan.
 
-His goals include deepening my knowledge in engineering and technology, contributing to global change, and inspiring others to pursue STEM.
+His goals include deepening his knowledge in engineering and technology, inspiring global change and fostering equal opportunities in STEM education for all.
