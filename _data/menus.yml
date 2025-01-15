@@ -1,0 +1,24 @@
+main:
+  - name: "Donate"
+    url: "/donate/"
+    weight: 2
+  - name: "About"
+    url: "/about/"
+    weight: 3
+  - name: "Team"
+    url: "/team/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+  - name: "Project Management"
+    url: "https://acsgp.dev/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
