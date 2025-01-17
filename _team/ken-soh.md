@@ -8,7 +8,10 @@ promoted: true
 weight: 1
 ---
 
+
 Ken holds a deep passion for innovation and entrepreneurship, and looks to use his skills in the area of programming, computer assisted design, and robotics to build a better tomorrow. 
+
+<img src="\images\team\kys.jpg">
 
 He has won multiple international Vex Robotics Championships together with his club 8059 Blank, at which he holds the position of Vice-Chairperson. Currently, he is heavily involved in the Hydrogen Grand Prix, working on creating a hydrogen-powered car with a focus on sustainable energy solutions.
 

@@ -8,7 +8,10 @@ promoted: true
 weight: 4
 ---
 
+
 Karan is a student at Anglo-Chinese School (Independent) with a strong drive for STEM and innovation. 
+
+<img src="\images\team\kgp.jpg">
 
 Currently, he is heavily involved in the Hydrogen Grand Prix, working on creating a hydrogen-powered car with a focus on sustainable energy solutions.
 
