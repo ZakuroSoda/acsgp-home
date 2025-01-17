@@ -7,7 +7,7 @@ bodyClass: page-about
 ---
 
 ## Accolades:
- - **Horizon Hydrogen Grand Prix National Final 2024** - 3rd Place  
+- **Horizon Hydrogen Grand Prix National Final 2024** - 3rd Place  
 - **National Engineers' Day Engineering Innovation Challenge 2024** (Secondary) - 2nd Place  
 - **National Stem Championship 2023** - Champions
 - **Samsun Solve for Tomorrow 2024** - Champions
