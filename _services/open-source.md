@@ -7,9 +7,12 @@ weight: 5
 ## Open-Sourcing our project, to distribute our knowledge on hydrogen energy. 
 As a team, we are dedicated to our vision of creating a world where knowledge is shared openly and freely, enabling breakthroughs that benefit humanity as a whole. Hence, after the competition is over, we will publish most of our research and tools as open-source projects on a web platform, for anyone intersted in the practical application of hydrogen energy to view. Our tools will be our fuel cell testing software, telemetry software, and circuit diagrams. 
 
+Example of our circuit diagrams.
+<img src="/images/circuit-resized.png">
+
 <img src="/images/codepic.png">
 
-Above is our tool, that is used to track car performance during the race. Below, is that users will see.
+Above is our tool, that is used to track car performance during the race. Below, is what users will see.
 
 <img src="/images/telemetry.png">
 
