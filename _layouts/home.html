@@ -22,25 +22,29 @@ bodyClass: "page-home"
 </div>
 
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+  
+  <!-- <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 3 %}
       {% for service in site.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
+        <a href = "{{ service.url | relative_url }}" class="service-title">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
+              <p style="color: red;">{{ service.title }}</p>
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 150 }}</p>
+            <p>{{ service.excerpt | markdownify | strip_html | truncate: 150 }}<u>(click for details)</u></p>
           </div>
         </div>
+        </a>
       </div>
       {% endfor %}
-    </div>
+    </div> -->
     <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "about" | relative_url }}">View All</a>
+      <div class="col-auto" style= "padding-bottom: 5%;">
+        <a class="button button-primary" href="{{ "about" | relative_url }}">Click for more details</a>
       </div>
     </div>
   </div>

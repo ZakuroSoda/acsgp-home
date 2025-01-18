@@ -1,13 +1,20 @@
 main:
 
+
+  - name: "What is H2GP?"
+    url: "/h2gp/"
+    weight: 3
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Accolades"
-    url: "/accolades/"
-    weight: 3
+  - name: "Giving back to society"
+    url: "/giving/"
+    weight: 2
   - name: "Team"
     url: "/team/"
+    weight: 3
+  - name: "Accolades"
+    url: "/accolades/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
