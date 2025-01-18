@@ -4,7 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-## Pre-Race Testing
+## Pre-Race Testing:
 For this project to succeed, lots of testing and monitoring of race conditions is required.
 
 For testing, we have built a "treadmill" to run the car in race conditions, and we plan to install many sensors and program microcontrollers to carefully monitor and optimise the car's performance.

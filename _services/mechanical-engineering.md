@@ -4,7 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-## What the Competition Entails
+## What the Competition Entails:
 Our project involves making a 1:10 RC car travel approximately 70km over a 6 hour period. The energy sources are limited to battery and hydrogen, and teams are given a cap on how much of each they can use.
 
 <img src="https://greenreview.com.au/wp-content/uploads/2023/04/068-Horizon-Hydrogen-Grand-Prix-2022-Iris-Sijbom-Photography-2022-IR204099.jpg">

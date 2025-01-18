@@ -1,30 +1,29 @@
 main:
 
-
   - name: "What is H2GP?"
     url: "/h2gp/"
-    weight: 3
+    weight: 2
   - name: "About"
     url: "/about/"
-    weight: 2
-  - name: "Giving back to society"
-    url: "/giving/"
-    weight: 2
+    weight: 3
+  - name: "Giving back"
+    url: "/services/social-impact/"
+    weight: 4
   - name: "Team"
     url: "/team/"
-    weight: 3
+    weight: 5
   - name: "Accolades"
     url: "/accolades/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
+    weight: 6
   - name: "Donate"
     url: "/donate/"
-    weight: 6
+    weight: 7
+  - name: "Contact"
+    url: "/contact/"
+    weight: 7
   - name: "Project Management"
     url: "https://acsgp.dev/"
-    weight: 7
+    weight: 8
 
 footer:
   - name: "Home"

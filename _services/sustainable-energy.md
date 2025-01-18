@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-## The Future of Hydrogen Energy: Powering Innovation  
+## The Future of Hydrogen Energy: Powering Innovation: 
 Hydrogen energy is a promising frontier in sustainable energy, offering a clean, efficient, and renewable alternative to traditional fossil fuels. As the world seeks to reduce carbon emissions and combat climate change, hydrogen stands out as a key player in the transition to a greener future.  
 
 ## What is Hydrogen Energy?  

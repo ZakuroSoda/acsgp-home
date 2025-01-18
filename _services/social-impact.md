@@ -4,9 +4,9 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-## [Wisdom Nest School, Baray, Cambodia](https://cornerstone-eastside.church/wisdom-nest-school)
-We are collaborating with WiNS for this project, because we share the school's vision of providing the Children of Baray with quality STEM education. We first came across Wisdom Nest School on our service learning trip to Cambodia, and we have personally visited the school and met Dr Sean, the principle of Secondary level.
+We are collaborating with **Wisdom Nest School(WiNS)** for this project, because we share the school's vision of providing the Children of Baray with quality STEM education. We first came across Wisdom Nest School on our service learning trip to Cambodia, and we have personally visited the school and met Dr Sean, the principle of Secondary level.
 
+## [Wisdom Nest School, Baray, Cambodia](https://cornerstone-eastside.church/wisdom-nest-school)
 <img src="/images/wns.jpg">
 
 From November 9 to 15, we travelled to Baray, Cambodia, on a service learning trip, to see what we could do for the local community. We conducted home visits and delivered care packages to over 50 families, erected solar lamps, built pavements and raised money for orphans.
