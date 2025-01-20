@@ -1,11 +1,8 @@
 main:
 
-  - name: "What is H2GP?"
+  - name: "H2GP"
     url: "/h2gp/"
     weight: 2
-  - name: "About"
-    url: "/about/"
-    weight: 3
   - name: "Giving back"
     url: "/services/social-impact/"
     weight: 4
