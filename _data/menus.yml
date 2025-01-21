@@ -6,9 +6,7 @@ main:
   - name: "Giving back - WNS"
     url: "/services/social-impact/"
     weight: 3
-  - name: "Giving back - Open Source"
-    url: "/services/open-source/"
-    weight: 4
+ 
   - name: "Team"
     url: "/team/"
     weight: 5
